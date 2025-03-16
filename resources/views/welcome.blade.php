@@ -5,8 +5,8 @@
 <div class="p-4">
     <div class="row mb-4 align-items-center">
         <div class="col-md-8">
-            <h3 class="fw-bold text-primary">Daftar Tugas</h3>
-            <p class="text-muted mb-0">Kelola dan periksa daftar tugas harian</p>
+            <h3 class="fw-bold text-primary">Daftar Task</h3>
+            <p class="text-muted mb-0">Kelola dan periksa daftar task harian</p>
         </div>
     </div>
 
